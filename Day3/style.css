@@ -1,0 +1,13 @@
+#demobox {
+    background-color: #cfc ;
+  }
+#demobox {
+    background-color: #0066cc;
+    padding:  10px;
+    border: 1px solid green;
+}
+#secondbox {
+    background-color: #ffcc00;
+    padding:  10px;
+    border: 1px solid #ffcc00;
+}
